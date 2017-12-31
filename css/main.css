@@ -6,11 +6,12 @@ html {
 
 h1 {
   font-family: 'Dosis', sans-serif;
+  font-size: 1.5rem;
 }
 
 .link-card {
-  color: #000;
-  background-color: #f0eee8;
+  color: #512200;
+  background-color: #dcd4cd;
 
   padding: .4em .75em .5em;
   border-radius: 8px;
@@ -21,7 +22,7 @@ h1 {
 }
 
 .link-card:hover {
-  background-color: #dcd4cd
+  background-color: #cabdb2
 }
 
 .btn-wrap {
@@ -31,7 +32,7 @@ h1 {
   padding: .4em .75em .5em;
   border-radius: 8px;
   text-decoration: none;
-  font-size: 1.125rem;
+  font-size: 1rem;
   display: inline-block;
   border: 2px solid #000;
 }
