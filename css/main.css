@@ -16,7 +16,7 @@ html {
   padding: .4em .75em .5em;
   border-radius: 8px;
   text-decoration: none;
-  font-size: .875;
+  font-size: .875rem;
   display: inline-block;
   border: 3px solid #9a816d;
 }
@@ -26,7 +26,7 @@ html {
 }
 
 .btn-wrap {
-  color: #fff;
+  color: #f0eee8;
   background-color: #785439;
   font-family: "Dosis", sans-serif;
   padding: .4em .75em .5em;
@@ -34,4 +34,8 @@ html {
   text-decoration: none;
   font-size: 1rem;
   display: inline-block;
+}
+
+a dl {
+
 }
