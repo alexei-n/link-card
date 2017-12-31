@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  font: normal 100%/1.5 sans-serif;
+  font-family: Georgia, sans-serif;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+.link-card {
+  color: #000;
+  background-color: #f0eee8;
+
+  padding: .4em .75em .5em;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  border: 3px solid #9a816d;
+}
+
+.link-card:hover {
+  background-color: #dcd4cd
+}
+
+.btn-wrap {
+  color: #fff;
+  background-color: #9a816d;
+  font-family: 'Dosis', sans-serif;
+  padding: .4em .75em .5em;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  border: 2px solid #000;
+}
