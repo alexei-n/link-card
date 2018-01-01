@@ -40,6 +40,6 @@ a dl {
   font-size: .875rem;
 }
 
-dt * {
-
+div * {
+display: inline-block;
 }
