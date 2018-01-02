@@ -56,10 +56,11 @@ div * {
   display: inline-block;
 }
 
-div .btnwrap {
-  text-align: center;
+dd {
+  font-style: italic;
+  text-align: right;
 }
 
-dd {
-  font-style:italic;
+footer {
+  text-align: center;
 }
