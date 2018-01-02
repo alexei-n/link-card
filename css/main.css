@@ -4,6 +4,14 @@ html {
   font-family: Georgia, sans-serif;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h2 {
+  padding: .75rem 0 0;
+}
+
 .link-card h2 {
   font-family: Dosis, sans-serif;
   font-size: 1.5rem;
@@ -36,6 +44,10 @@ html {
   display: inline-block;
 }
 
+dl {
+  padding: 1rem 0;
+}
+
 a dl {
   font-size: .875rem;
 }
@@ -48,14 +60,6 @@ div .btnwrap {
   text-align: center;
 }
 
-h2 {
-  padding: .75rem 0 0;
-}
-
-dl {
-  padding: 1rem 0;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
+dd {
+  font-style:italic;
 }
